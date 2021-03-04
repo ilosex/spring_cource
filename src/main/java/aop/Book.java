@@ -21,6 +21,20 @@ public class Book {
         return name;
     }
 
+    @Value("Autor")
+    private String author;
+
+    @Value("1800")
+    private int yearOfPublication;
+
+    public String getAuthor() {
+        return author;
+    }
+
+    public int getYersOfPublication() {
+        return yearOfPublication;
+    }
+
     public void setName(String name) {
         this.name = name;
     }

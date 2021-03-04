@@ -19,11 +19,13 @@ public class Test1 {
         Book book = contex.getBean("book", Book.class);
 
         UniLibrary uniLibrary = contex.getBean("uniLibrary", UniLibrary.class);
-        SchoolLibrary schoolLibrary =
-                contex.getBean("schoolLibrary", SchoolLibrary.class);
+//        SchoolLibrary schoolLibrary =
+//                contex.getBean("schoolLibrary", SchoolLibrary.class);
 
         uniLibrary.getBook();
-        uniLibrary.getMagazine();
+        uniLibrary.addBook("Kirril", book);
+        uniLibrary.addMagazine();
+
 //        uniLibrary.returnMagazine();
 //        uniLibrary.addBook();
 //        System.out.println(uniLibrary.returnBook());

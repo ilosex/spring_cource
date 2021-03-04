@@ -16,13 +16,12 @@ import org.springframework.stereotype.Component;
  */
 @Component
 @Aspect
-@Order(20)
-public class SecurityAspect {
-
+@Order(30)
+public class ExceptionHandlingAspect {
     @Before("aop.aspects.MyPointcuts.allAddMethods()")
-    public void beforeAddSecurityAdvice(){
-        System.out.println("beforeGetSecurityAdvice: проверка прав на "
-                + "получекние книги/журнала");
+    public void beforeAddExeptionHandlingAdvice(){
+        System.out.println("beforeGetExeptionHandlingAdvice:"
+                + " ловим/обрабатываем исключения при попытке");
         System.out.println("-----------------------------------------------");
     }
 }
