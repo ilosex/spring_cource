@@ -1,8 +1,12 @@
 C:\Users\lab\Documents\NetBeansProjects\spring_cource\src\main\java\spring_introduction\ScopeTest.java
+C:\Users\lab\Documents\NetBeansProjects\spring_cource\src\main\java\hibernate_test\entity\Employee.java
 C:\Users\lab\Documents\NetBeansProjects\spring_cource\src\main\java\aop\aspects\UniversityLoggingAspect.java
+C:\Users\lab\Documents\NetBeansProjects\spring_cource\src\main\java\hibernate_test\Test3.java
 C:\Users\lab\Documents\NetBeansProjects\spring_cource\src\main\java\spring_introduction\Test1.java
 C:\Users\lab\Documents\NetBeansProjects\spring_cource\src\main\java\aop\MyConfig.java
 C:\Users\lab\Documents\NetBeansProjects\spring_cource\src\main\java\spring_introduction\Test4.java
+C:\Users\lab\Documents\NetBeansProjects\spring_cource\src\main\java\hibernate_test\test1.java
+C:\Users\lab\Documents\NetBeansProjects\spring_cource\src\main\java\hibernate_test\Test4.java
 C:\Users\lab\Documents\NetBeansProjects\spring_cource\src\main\java\aop\aspects\ExceptionHandlingAspect.java
 C:\Users\lab\Documents\NetBeansProjects\spring_cource\src\main\java\aop\aspects\MyPointcuts.java
 C:\Users\lab\Documents\NetBeansProjects\spring_cource\src\main\java\aop\University.java
@@ -11,9 +15,11 @@ C:\Users\lab\Documents\NetBeansProjects\spring_cource\src\main\java\aop\UniLibra
 C:\Users\lab\Documents\NetBeansProjects\spring_cource\src\main\java\spring_introduction\Test3.java
 C:\Users\lab\Documents\NetBeansProjects\spring_cource\src\main\java\aop\AbstractLibrary.java
 C:\Users\lab\Documents\NetBeansProjects\spring_cource\src\main\java\aop\Book.java
+C:\Users\lab\Documents\NetBeansProjects\spring_cource\src\main\java\aop\aspects\NewLoggingAspect.java
 C:\Users\lab\Documents\NetBeansProjects\spring_cource\src\main\java\aop\Student.java
 C:\Users\lab\Documents\NetBeansProjects\spring_cource\src\main\java\spring_introduction\Test6.java
 C:\Users\lab\Documents\NetBeansProjects\spring_cource\src\main\java\spring_introduction\Dog.java
+C:\Users\lab\Documents\NetBeansProjects\spring_cource\src\main\java\aop\Tetst3.java
 C:\Users\lab\Documents\NetBeansProjects\spring_cource\src\main\java\spring_introduction\Person.java
 C:\Users\lab\Documents\NetBeansProjects\spring_cource\src\main\java\aop\Test1.java
 C:\Users\lab\Documents\NetBeansProjects\spring_cource\src\main\java\aop\aspects\LoggingAspect.java
@@ -25,4 +31,5 @@ C:\Users\lab\Documents\NetBeansProjects\spring_cource\src\main\java\aop\Test2.ja
 C:\Users\lab\Documents\NetBeansProjects\spring_cource\src\main\java\spring_introduction\Test2.java
 C:\Users\lab\Documents\NetBeansProjects\spring_cource\src\main\java\spring_introduction\Conf.java
 C:\Users\lab\Documents\NetBeansProjects\spring_cource\src\main\java\aop\SchoolLibrary.java
+C:\Users\lab\Documents\NetBeansProjects\spring_cource\src\main\java\hibernate_test\Test2.java
 C:\Users\lab\Documents\NetBeansProjects\spring_cource\src\main\java\spring_introduction\ConfigWithAnnotations1.java
